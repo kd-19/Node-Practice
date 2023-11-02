@@ -1,0 +1,27 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "description": "For Node Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kd-19/Node-Practice.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "KD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kd-19/Node-Practice/issues"
+  },
+  "homepage": "https://github.com/kd-19/Node-Practice#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
